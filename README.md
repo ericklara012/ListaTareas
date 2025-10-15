@@ -13,4 +13,4 @@ Una aplicación sencilla de lista de tareas usando HTML, CSS y JavaScript.
 
 1. Descarga el proyecto o clónalo desde GitHub.
 2. Abre el archivo `index.html` en tu navegador.
-3. ¡Empieza a usar la lista de tareas!
+3. Empieza a usar la lista de tareas
